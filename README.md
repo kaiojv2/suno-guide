@@ -6,7 +6,7 @@
 
 ### 🔗 Links Rápidos
 - 🎧 **[Ouvir no Suno.ai](https://suno.com/@kaiojv)** 
-- 📄 **[Baixar Guia em PDF](./guia-suno.pdf)**
+- 📄 **[Baixar Guia em PDF](./suno-guide.pdf)**
 - ⚖️ **[Ver Licença MIT](./LICENSE)**
 
 ---
