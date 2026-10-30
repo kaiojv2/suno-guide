@@ -567,7 +567,3 @@ frase final, com vogais esticadas e MAIÚSCULAS nos pontos de força
 ```
 
 ---
-
-<FollowUp>
-Deu tudo certo ao colar o arquivo no repositório? Se precisar de ajuda para configurar a licença MIT ou publicar depois, é só chamar!
-</FollowUp>
