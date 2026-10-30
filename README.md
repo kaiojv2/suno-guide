@@ -1,5 +1,26 @@
-# Guia Completo do Suno AI
-> Como criar músicas com estrutura, voz e drop: método para inglês e para português, com duas músicas reais como exemplo.
+# 🎵 Guia Completo do Suno AI (Inglês e Português)
+
+> **Método para criação de músicas com estrutura, voz e drop usando as ferramentas do plano Pro do Suno.**
+
+---
+
+### 🔗 Links Rápidos e Recursos
+[![Ouvir Músicas no SoundCloud](https://img.shields.io/badge/SoundCloud-Ou%C3%A7a%20os%20Exemplos-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/SEU_USUARIO_AQUI)
+[![Baixar Guia em PDF](https://img.shields.io/badge/PDF-Baixar%20Guia%20Completo-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./guia-suno.pdf)
+[![Licença MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-green?style=for-the-badge)](./LICENSE)
+
+---
+
+> 📥 **Prefere ler offline ou guardar uma cópia em PDF?**
+> Se houver alguma dúvida ou se você quiser consultar o layout original com tabelas formatadas para impressão, **[clique aqui para baixar o PDF do Guia Completo](./guia-suno.pdf)**.
+
+---
+
+### 🎧 Exemplos Reais Criados com Este Método
+1. **Daisy: Still Singing** *(Inglês / Eletrônica com Drop)* — **[Ouvir no SoundCloud](https://soundcloud.com/SEU_USUARIO_AQUI/daisy)**
+2. **Não Deixa Pra Depois** *(Português / Sertanejo Universitário)* — **[Ouvir no SoundCloud](https://soundcloud.com/SEU_USUARIO_AQUI/nao-deixa-pra-depois)**
+
+---
 
 ---
 
