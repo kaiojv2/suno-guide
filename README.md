@@ -12,7 +12,7 @@
 ---
 
 > 📥 **Prefere ler offline ou guardar uma cópia em PDF?**
-> Se houver alguma dúvida ou se você quiser consultar o layout original com tabelas formatadas para impressão, **[clique aqui para baixar o PDF do Guia Completo](./guia-suno.pdf)**.
+> Se houver alguma dúvida ou se você quiser consultar o layout original com tabelas formatadas para impressão, **[clique aqui para baixar o PDF do Guia Completo](./suno-guide.pdf)**.
 
 ---
 
