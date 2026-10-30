@@ -17,8 +17,8 @@
 ---
 
 ### 🎧 Exemplos Reais Criados com Este Método
-1. **Daisy: Still Singing** *(Inglês / Eletrônica com Drop)* — **[Ouvir no Suno](COLE_O_LINK_DA_MUSICA_DAISY_AQUI)**
-2. **Não Deixa Pra Depois** *(Português / Sertanejo Universitário)* — **[Ouvir no Suno]([COLE_O_LINK_DA_MUSICA_SERTANEJO_AQUI](https://suno.com/s/eEplh8EGWYul7W8q))**
+1. **Daisy: Still Singing** *(Inglês / Eletrônica com Drop)* — **[Ouvir no Suno]((https://suno.com/s/Jqk4Gs4Kn97c6S8o))**
+2. **Não Deixa Pra Depois** *(Português / Sertanejo Universitário)* — **[Ouvir no Suno]((https://suno.com/s/eEplh8EGWYul7W8q))**
 
 ---
 
