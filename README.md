@@ -547,8 +547,6 @@ frase final, com vogais esticadas e MAIÚSCULAS nos pontos de força
 
 ---
 
-O arquivo completo em Markdown foi gerado acima. Basta copiar todo o conteúdo do bloco e colar no seu `README.md` no GitHub!
-
 <FollowUp>
 Deu tudo certo ao colar o arquivo no repositório? Se precisar de ajuda para configurar a licença MIT ou publicar depois, é só chamar!
 </FollowUp>
